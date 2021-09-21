@@ -15,7 +15,7 @@ Instruções para Execução
 
 	1 - Acesse a página contendo o repositório de código SosStar:
 	
-		https://github.com/MuriloGuidettiAndrietta/SolStar/tree/master
+		https://github.com/MuriloGuidettiAndrietta/SolStar
 	
 	    Trata-se de um Repositório Git público, visando evitar problemas de acesso.
 
